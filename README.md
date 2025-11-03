@@ -1,4 +1,4 @@
-# CapThat! - Chrome Extension
+# Capture Board! - Chrome Extension
 
 A Chrome Extension that allows users to capture images from any webpage and display them in a beautiful Capture Board.
 
